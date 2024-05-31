@@ -28,6 +28,7 @@ More functionality
 (single step Z motor if using 16to1 gearbox for Z)
 
 Planned
+  - Motor specification in data packet
   - time wait setting for waypoints
   - seperate code into multiple .py files
   - clean up code(it works)
