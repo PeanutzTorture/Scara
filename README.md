@@ -7,16 +7,15 @@ WIP
 Currently only Code, Will update SCARA STLs when needed
 
 code improvements:
-Steppers now move simultaneously
-Better UI in PyQT5
-More functionality
+  - Steppers now move simultaneously
+  - Better UI in PyQT5
+  - more controls
   - end effector set vertical, horizontal, lock, free mode
   - WASD controls
   - more controls
-  - sends data as a packet
   - can see controls
-  - customizeable save/load waypoint file
-  - able to see serial data
+  - text input for save/load waypoint file
+  - able to see serial data sent/received
   - Arduino reconect
   - some error tolerance
   - works when arduino is not connected
